@@ -15,15 +15,6 @@ This project provides an interactive web application for detecting change-points
 - **Detailed Results**: View a comprehensive table of statistics for each fitted segment, including slope, intercept, R², and more.
 - **Export Functionality**: Download the final segment analysis as a CSV file for further use.
 
-## Project Structure
-
-The project is contained within the `fast_pwl_fit` directory: 
-└── fast_pwl_fit/
-├── init.py # Makes the directory a Python package
-├── fast_pwl_fit.py # The core fitting algorithm
-├── app.py # The Streamlit GUI application
-├── requirements.txt # Project dependencies
-└── README.md # This instruction file
 
 ## Installation and Setup
 
